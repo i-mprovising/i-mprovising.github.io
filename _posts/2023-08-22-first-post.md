@@ -2,7 +2,7 @@
 layout: post
 title: test post
 date: 2023-08-22 10:23:20 +0900
-categories: books
+categories: etc
 ---
 ## 첫 글
 github 블로그 드디어 만들었다!!!
