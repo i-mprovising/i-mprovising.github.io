@@ -1,0 +1,27 @@
+[
+  
+    {
+      "title"    : "Transformer, Attention is all you need",
+      "category" : "",
+      "tags"     : "NLP, transformers, and attention",
+      "url"      : "/2023/08/22/transformers/",
+      "date"     : "2023-08-22 15:13:18 +0900"
+    } ,
+  
+    {
+      "title"    : "Sequence to Sequence Learning with Neural Networks",
+      "category" : "",
+      "tags"     : "NLP and seq2seq",
+      "url"      : "/2023/08/22/seq2seq/",
+      "date"     : "2023-08-22 15:13:18 +0900"
+    } ,
+  
+    {
+      "title"    : "Phrase Retrieval Learns Passge Retrieval, Too",
+      "category" : "",
+      "tags"     : "NLP, QuestionAnswering, Retriever, and DensePhrases",
+      "url"      : "/2023/08/22/densephrases/",
+      "date"     : "2023-08-22 15:13:18 +0900"
+    } 
+  
+]

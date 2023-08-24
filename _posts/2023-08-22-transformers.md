@@ -50,5 +50,5 @@ Query는 이전 decoder layer에서 받고, Key, Value는 encoder의 output으�
 
 ---
 References
-- http://nlp.seas.harvard.edu/2018/04/03/attention
-- https://wikidocs.net/31379
+- <http://nlp.seas.harvard.edu/2018/04/03/attention>
+- <https://wikidocs.net/31379>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://i-mprovising.github.io/sitemap.xml

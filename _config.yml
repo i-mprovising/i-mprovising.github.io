@@ -1,7 +1,7 @@
-title: Hello
-description: Hello
+title: Improvising Blog
+description: Improvising Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "i-mprovising.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://i-mprovising.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    Improvising
